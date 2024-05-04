@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731527826463",
+    "project_id": "gestion-etudiant-d7f7f",
+    "storage_bucket": "gestion-etudiant-d7f7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731527826463:android:4d0a4c2f6484b78e41192a",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKhEMDXGTZK3ALfLvlFCAlFDJG1U65LBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
